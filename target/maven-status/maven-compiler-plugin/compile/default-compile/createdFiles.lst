@@ -5,7 +5,6 @@ com/security/login/config/ExceptionAdvice.class
 com/security/login/model/User.class
 com/security/login/controller/UserController.class
 com/security/login/config/JwtAuthenticationEntryPoint.class
-com/security/login/config/CORSFilter.class
 com/security/login/service/UserService.class
 com/security/login/model/LoginUser.class
 com/security/login/config/JwtAuthenticationFilter.class
@@ -14,6 +13,5 @@ com/security/login/config/WebSecurityConfig.class
 com/security/login/service/UserServiceImpl.class
 com/security/login/model/AuthToken.class
 com/security/login/model/UserDto.class
-com/security/login/JerseyConfig.class
 com/security/login/LoginApplication.class
 com/security/login/config/JwtTokenUtil.class
